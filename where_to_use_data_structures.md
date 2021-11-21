@@ -3,12 +3,12 @@ Following are some of the tips on when to use what data structure,
 ### 1. List
 * To store collection of heterogeneous (different data types) elements.
 * If we want the insertion order to be preserved.
-* To store duplicate elements.
+* Can store duplicate elements.
 * To extend or modify the collection or list dynamically.
 ### 2. Tuple
 * To store collection of heterogeneous elements.
 * When we want the insertion order to be preserved.
-* To store duplicate elements.
+* Can store duplicate elements.
 * Don’t want to modify the collection (tuple is immutable)
 ### 3. Set
 * To store collection of heterogeneous elements.
